@@ -5,6 +5,11 @@
 type of device that is attached to a computer
 
 ***
+<p align="center">
+<img src="https://github.com/abdalazeim/DeviceDriver/blob/master/Screenshot.png"/>
+</p>
+
+
  ****Function***
 The function of a device driver is to allow the communication between the
 computer operating system and the device attached to it. Device drivers are
